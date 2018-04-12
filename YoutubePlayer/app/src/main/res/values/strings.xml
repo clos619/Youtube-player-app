@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="play_video">Play Video</string>
+    <string name="play_playlist">Play Playlist</string>
+    <string name="action_settings" />
+    <string name="app_name" />
+    <string name="title_activity_youtube" />
+    <string name="title_activity_standalone" />
+    <string name="play_a_single_video">Play a single Video</string>
+    <string name="play_them_all">Play them all</string>
+    <string name="play_all">Playall</string>
+    <string name="play_single_video">Play a single video</string>
+    <string name="standalone_menu">Standalone Sub menu</string>
+</resources>
